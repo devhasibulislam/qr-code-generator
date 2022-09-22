@@ -2,7 +2,7 @@
 
 Simple app to generate and download a QR code that can be used to share a link.
 
-[Live Demo]()
+[Live Demo](https://hasibulislam999.github.io/qr-code-generator/)
 
 <img src="img/screen.png">
 
